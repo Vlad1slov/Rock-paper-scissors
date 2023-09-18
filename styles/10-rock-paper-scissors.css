@@ -2,6 +2,10 @@ body {
     background-color: rgb(25, 25, 25);
     color: white;
     font-family: Arial;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
 }
 
 .title {
